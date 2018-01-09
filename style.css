@@ -1,0 +1,59 @@
+body{
+    font-family: Arial;
+    font-size: 14px;
+    color: #414141;
+}
+header{
+    position: relative;
+}
+.about{ 
+    position: absolute;
+    left: 151px;
+    top: 26px;
+    z-index: 1;
+    font-size: 36px;
+}
+
+.article1{
+    font-size: 36px; 
+}
+
+.article2{
+    font-size: 30px; 
+}
+
+.w{
+   width: 1140px;
+    margin: auto; 
+}
+
+.wap{
+    width: 845px;
+    margin: auto;
+    float:left;
+}
+
+.wap2{
+    width: 245px;
+    margin: auto;
+    float:right;
+}
+
+.wap3{
+    float: left;
+    margin: auto;
+    position: absolute;
+}
+.wap4{
+    margin-right: 100px;
+    float: right;
+    position: relative;
+}
+
+.list{
+    font-size: 26px;
+}
+
+.article3{
+    font-size: 22px; 
+}
